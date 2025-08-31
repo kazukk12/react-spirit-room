@@ -19,9 +19,9 @@
 5. 1分振り返り
 
 ## Live Demos（StackBlitz）
-- Day1: （リンク後で追記）
+- Day1: https://stackblitz.com/edit/vitejs-vite-u2vysaxv?file=src%2FApp.tsx
 - Day2: （リンク後で追記）
 …
 
 ## 振り返りメモ
-- Day1: （あとで1行）
+- Day1: useStateとイベントの基本を復習。
