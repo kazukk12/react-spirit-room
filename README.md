@@ -25,3 +25,6 @@
 
 ## 振り返りメモ
 - Day1: useStateとイベントの基本を復習。
+- Day2: 入力値をstateで管理する「Controlled Component」を理解。  
+        空文字時に送信ボタンを無効化する処理も実装できた。  
+        → stateとDOMの違いが実感できた！
