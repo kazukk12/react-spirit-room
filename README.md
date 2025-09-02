@@ -20,7 +20,7 @@
 
 ## Live Demos（StackBlitz）
 - Day1: https://stackblitz.com/edit/vitejs-vite-u2vysaxv?file=src%2FApp.tsx
-- Day2: （リンク後で追記）
+- Day2: https://stackblitz.com/edit/vitejs-vite-kb2d7wrs?file=README.md
 …
 
 ## 振り返りメモ
